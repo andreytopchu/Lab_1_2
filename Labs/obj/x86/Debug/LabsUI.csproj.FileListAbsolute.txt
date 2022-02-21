@@ -1,0 +1,8 @@
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\LabsUI.csprojResolveAssemblyReference.cache
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.MainForm.resources
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.Properties.Resources.resources
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\LabsUI.csproj.GenerateResource.Cache
+D:\Лабораторные работы по численным методам\Labs\Labs\bin\Debug\Labs.exe
+D:\Лабораторные работы по численным методам\Labs\Labs\bin\Debug\Labs.pdb
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.exe
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.pdb
